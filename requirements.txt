@@ -1,0 +1,9 @@
+torch
+timm
+numpy
+scipy
+h5py
+xlrd
+matplotlib
+scikit-image
+sewar

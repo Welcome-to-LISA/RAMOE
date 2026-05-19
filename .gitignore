@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+data/**
+!data/
+!data/**/
+!data/**/.gitkeep
+
+checkpoints/**
+!checkpoints/
+!checkpoints/**/
+!checkpoints/**/.gitkeep
