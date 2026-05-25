@@ -1,9 +1,6 @@
 import argparse
 import sys
 from pathlib import Path
-from runtime_env import clean_openmp_env
-
-clean_openmp_env()
 
 import torch
 

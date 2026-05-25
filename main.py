@@ -1,8 +1,4 @@
 import os
-from runtime_env import clean_openmp_env
-
-clean_openmp_env()
-
 import torch
 import torch.optim as optim
 from config import args
